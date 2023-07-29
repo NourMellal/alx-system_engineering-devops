@@ -6,7 +6,7 @@
 # Deletes the file /var/run/myscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal
 
 term() {
-    rm /var/run/myscript
+    rm /var/run/myscript.pid
     exit
 }
 
