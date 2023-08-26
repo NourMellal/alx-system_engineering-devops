@@ -30,7 +30,7 @@
 
 | Task | File |
 | ---- | ---- |
-| 0. Simple web stack | [0-simple_web_stack](./0x09-web_infrastructure_design/0-simple_web_stack.jpeg) |
-| 1. Distributed web infrastructure | [1-distributed_web_infrastructure](./0x09-web_infrastructure_design/1-distributed_web_infrastructure.png) |
-| 2. Secured and monitored web infrastructure | [2-secured_and_monitored_web_infrastructure](./0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure.jpeg) |
+| 0. Simple web stack | [0-simple_web_stack](./web_infrastructure_design/0-simple_web_stack.jpeg) |
+| 1. Distributed web infrastructure | [1-distributed_web_infrastructure](./web_infrastructure_design/1-distributed_web_infrastructure.png) |
+| 2. Secured and monitored web infrastructure | [2-secured_and_monitored_web_infrastructure](./web_infrastructure_design/2-secured_and_monitored_web_infrastructure.jpeg) |
 
